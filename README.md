@@ -1,3 +1,4 @@
 #GAPI
 
-##git data from the api using retrofit2 and show it in RecyclerView Adapter.
+
+## Get data from the API using retrofit2 and show it in the RecyclerView Adapter.
